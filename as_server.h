@@ -1,9 +1,5 @@
 #ifndef AS_SERVER_H_
 #define AS_SERVER_H_
-/*****************************************************************************/
-/*                       CSC209-24s A4 Audio Stream                          */
-/*       Copyright 2024 -- Demetres Kostas PhD (aka Darlene Heliokinde)      */
-/*****************************************************************************/
 #include "libas.h"
 
 /*
