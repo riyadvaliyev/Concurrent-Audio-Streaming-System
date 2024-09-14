@@ -1,10 +1,3 @@
-##
-# CSC209 Assignment 4
-# Audio Streaming -- as
-#
-# @file
-# @version 0.2
-
 FLAGS := -Wall --std=gnu99
 PORT := port.mk 
 TARGETS := as_server as_client stream_debugger
